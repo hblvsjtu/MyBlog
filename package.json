@@ -69,6 +69,38 @@
                 "feat": {
                     "description": "A new feature",
                     "title": "Features"
+                },
+                "fix": {
+                    "description": "A new fix",
+                    "title": "Features"
+                },
+                "docs": {
+                    "description": "A new docs",
+                    "title": "Features"
+                },
+                "style": {
+                    "description": "A new style",
+                    "title": "Features"
+                },
+                "refactor": {
+                    "description": "A new refactor",
+                    "title": "refactor"
+                },
+                "test": {
+                    "description": "A new test",
+                    "title": "test"
+                },
+                "revert": {
+                    "description": "A new revert",
+                    "title": "revert"
+                },
+                "config": {
+                    "description": "A new config",
+                    "title": "config"
+                },
+                "chore": {
+                    "description": "A new chore",
+                    "title": "chore"
                 }
             }
         }

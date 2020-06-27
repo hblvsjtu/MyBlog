@@ -2,7 +2,7 @@
  * @Author: hblvsjtu (hblvsjtu@163.com)
  * @Date: 2020-05-04 12:20:05
  * @Last Modified by: hblvsjtu (hblvsjtu@163.com)
- * @Last Modified time: 2020-06-07 14:51:10
+ * @Last Modified time: 2020-06-28 02:02:49
  */
 
 const path = require("path");
@@ -48,7 +48,7 @@ module.exports = merge(webpackCommon, {
         index: "index.html",
         compress: true,
         host: "127.0.0.1",
-        port: 8080,
+        port: 8081,
         progress: true,
         contentBase: distPath,
         open: true,
